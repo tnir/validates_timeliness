@@ -1,3 +1,3 @@
 module ValidatesTimeliness
-  VERSION = '7.0.0.beta2'
+  VERSION = '8.0.0.alpha1'
 end
